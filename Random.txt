@@ -1,1 +1,4 @@
-writing random text to check the git functionality
+writing random text to check the git functionality 
+
+2nd commit
+
