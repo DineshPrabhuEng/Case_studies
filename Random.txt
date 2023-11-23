@@ -2,3 +2,5 @@ writing random text to check the git functionality
 
 2nd commit
 
+3rd commit
+
